@@ -1,0 +1,4 @@
+SQL Project-2
+
+The Hotel Management System is a database project designed to manage hotel operations such as customer registration, room booking, billing, staff management, and room availability tracking. 
+The system stores, retrieves, and handles essential hotel data using SQL queries, relationships, constraints, and stored procedures.
