@@ -1,5 +1,6 @@
 # Project-With-SQL
 Project Name :- "Employee and Department Management System" 
+
 Project Summary: 
 This project involves creating and managing a basic Employee and Department 
 Management System using SQL. The project aims to help students understand how to design 
